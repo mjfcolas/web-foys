@@ -1,0 +1,23 @@
+[
+  {
+    "key": "F1",
+    "product": {
+      "name": "Produit 1",
+      "price": 1.2
+    }
+  },
+  {
+    "key": "F2",
+    "product": {
+      "name": "Produit 2",
+      "price": 0.5
+    }
+  },
+  {
+    "key": "F3",
+    "product": {
+      "name": "Produit 3",
+      "price": 1
+    }
+  }
+]

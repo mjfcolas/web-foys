@@ -1,0 +1,75 @@
+.command {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.command > div {
+    flex: 1 1 0;
+}
+
+.center {
+    #height: 100%;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.product-table,
+.history-table {
+    margin-top: 100px;
+}
+
+.history-table{
+    float: right;
+    border: none;
+
+}
+
+.history-table td {
+    border: none;
+}
+
+.product-table tr {
+    height: 20px;
+}
+
+tr.--active   {
+    background-color: #3535da;
+}
+
+.name {
+    width: 300px;
+}
+
+.price {
+    width: 40px;
+}
+
+.quantity {
+    width: 30px;
+}
+
+.date{
+    width: 160px;
+}
+
+.product{
+    width: 150px;
+}
+
+.am-zaloeil > img {
+    width: 150px;
+}
+
+.account-amount {
+    color: red;
+    font-size: 4em;
+}
+
+.pg-information {
+    padding: 20px;
+}

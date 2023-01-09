@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "paths": {
+      "@repositories/*": ["modules/repository/*"],
+      "@implementations/*": ["modules/implementations/*"],
+      "@confs/*": ["assets/confs/*"]
+    }
+  }
+}
